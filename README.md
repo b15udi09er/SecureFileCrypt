@@ -18,7 +18,7 @@ SecureFileCrypt is a lightweight encryption and decryption tool designed for sec
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/SecureFileCrypt.git
+   git clone https://github.com/b15udi09er/SecureFileCrypt.git
    ```
 
 2. Install dependencies:
